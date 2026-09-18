@@ -53,21 +53,11 @@ Tests confirmed that all content, graphics, and buttons were displayed properly 
 
 8. Screenshot Evidence
 
-Desktop Version
-
-[Insert screenshot of desktop version here]
-
-Tablet Version
-
-[Insert screenshot of tablet version here]
-
-Mobile Version
-
-[Insert screenshot of mobile version here]
+(In the files section)  
 
 9. Contact Information
 
-Email: coolclothes@gmail.com
+Email: luhtwizzygng@icloud.com
 
 Telephone: 012 345 6789
 
