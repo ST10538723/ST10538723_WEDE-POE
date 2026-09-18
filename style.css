@@ -1,0 +1,38 @@
+/* ================================
+   GENERAL WEBSITE STYLING
+================================ */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+/* Basic Style*/
+body {font-family: arial; background-color: lightgray; margin: 20px;}
+/* Heading */
+h1 {text-align: center; color: black;}
+h2 {color: black;}
+
+/* Products */
+.products {display: flex; gap: 20px;}
+.product {background-color: white;padding: 15px; text-align: center; border: 1px solid black;}
+
+/* Tablet */
+@media (max-width: 900px) {.products} {gap: 10px;}
+img {width: 180px;}
+
+/* Images */ 
+img {width: 200px;}
+/* Buttons */ 
+button {background-color: black; color: white; padding: 10px;}
+button:hover {background-color: gray;}
+
+/* Mobile */ 
+@media (max-width: 600px) {.products} {flex-direction: column;}
+img {width: 150px;}
+
+body {font-size: 1rem;}
+h1 {font-size: 2rem;}
+p{font-size: 1rem;}
+img{width: 80%; height: auto;}
+.products {width: 90%; margin: 1rem;}
